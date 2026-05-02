@@ -1,0 +1,1 @@
+export const environment = { production: true, apiUrl: 'https://amarillo.si-umng.com/api' };
